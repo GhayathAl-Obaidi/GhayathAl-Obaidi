@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi Everyone!
+
+My name is Ghayath Al-Obaidi and I'm a Data scientist & Machine learning Enthusiast.
 
 <!--
 **GhayathAl-Obaidi/GhayathAl-Obaidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
