@@ -2,7 +2,7 @@
 
 My name is Ghayath Al-Obaidi and I'm a Data scientist & Machine learning Enthusiast.
 
-![Ghayath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghayathal-obaidi&theme=onedark)
+![Ghayath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghayathal-obaidi&theme=vue-dark)
 
 <!--
 **GhayathAl-Obaidi/GhayathAl-Obaidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
