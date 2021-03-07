@@ -4,8 +4,8 @@ My name is Ghayath Al-Obaidi and I'm a Data scientist & Machine learning Enthusi
 
 ![Ghayath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghayathal-obaidi&theme=vue-dark)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghayathal-obaidi&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ghayathal-obaidi&repo=aws-cli)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
