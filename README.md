@@ -2,10 +2,10 @@
 
 My name is Ghayath Al-Obaidi and I'm a Data scientist & Machine learning Enthusiast.
 
-![Ghayath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghayathal-obaidi&theme=vue-dark)
+![Ghayath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GhayathAlobaidi&theme=vue-dark)
 
 <!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghayathalobaidi&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GhayathAlobaidi&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 -->
 
