@@ -1,6 +1,6 @@
 ### Hey Everyone!
 
-My name is Ghayath Al-Obaidi.  I love learning about new technology and tinkering around.  I'm passionate about Cloud Computing, Software Engineering, Data science and Machine Learning. 
+My name is Ghayath Al-Obaidi.  I love learning about new technology and experimenting.  I'm passionate about Cloud Computing, Software Engineering, Data Science and Machine Learning. 
 
 ![Ghayath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GhayathAlobaidi&theme=vue-dark)
 
